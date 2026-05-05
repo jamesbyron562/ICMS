@@ -1,0 +1,5 @@
+C:\Users\A C E R\Downloads\Archive\obj\Release\net48\ICMS.csproj.AssemblyReference.cache
+C:\Users\A C E R\Downloads\Archive\obj\Release\net48\ICMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R\Downloads\Archive\obj\Release\net48\ICMS.AssemblyInfoInputs.cache
+C:\Users\A C E R\Downloads\Archive\obj\Release\net48\ICMS.AssemblyInfo.cs
+C:\Users\A C E R\Downloads\Archive\obj\Release\net48\ICMS.csproj.CoreCompileInputs.cache
